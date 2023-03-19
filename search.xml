@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>EXCEL技巧笔记</title>
+      <link href="/2023/03/19/EXCEL%E6%8A%80%E5%B7%A7%E7%AC%94%E8%AE%B0/"/>
+      <url>/2023/03/19/EXCEL%E6%8A%80%E5%B7%A7%E7%AC%94%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>软件为WPS</p></blockquote><ul><li>1.快速录入相同开头编号：自定义格式—&gt;”自定义固定开头”G&#x2F;通用格式</li><li>2.快速录入当时日期和时间：快捷键为Ctrl+；和Ctrl+’</li><li>3.多个区域录入相同数据：按Ctrl选区域，输入数据，按Ctrl+Eeter（按Ctrl多选工作表，多个表中同位置会录入相同数据）</li><li>4.批量生成大量连续序号：拖曳法太慢，双击填充要有参照列，可以在‘序列’设置生成</li><li>5.连续输入大写英文字母，输入公式&#x3D;CHAR(ROW(A65))，然后拖动。小写：&#x3D;CHAR(ROW(A97))</li><li>6.限定输入11位手机号：数据—有效性—文本长度—等于11位</li><li>7.防控输入重复数据：选择一列&#x3D;COUNTIF(A:A,A1)&lt;2</li><li>8.防止输入空格：选择一列&#x3D;COUNTIF(A1,”* *”)&#x3D;0</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 职场 </category>
+          
+          <category> 办公 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> EXCEL </tag>
+            
+            <tag> OFFICE </tag>
+            
+            <tag> 办公 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>找对英语学习方法的第一本书</title>
       <link href="/2022/08/08/%E6%89%BE%E5%AF%B9%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E7%9A%84%E7%AC%AC%E4%B8%80%E6%9C%AC%E4%B9%A6/"/>
       <url>/2022/08/08/%E6%89%BE%E5%AF%B9%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E7%9A%84%E7%AC%AC%E4%B8%80%E6%9C%AC%E4%B9%A6/</url>
